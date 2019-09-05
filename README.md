@@ -8,13 +8,17 @@
 
 ## DevOps
 
+### Docker:
+
 ### Kubernetes:
 https://stripe.com/blog/operating-kubernetes
+
+### Jenkins:
 
 ## Cloud 
 
 ## IoT
 
-## Hack
+## Security
 
 ## Other
