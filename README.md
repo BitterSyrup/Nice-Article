@@ -2,7 +2,7 @@
 
 ## System
 
-[Giới thiệu về LVM](https://cloudcraft.info/gioi-thieu-ve-lvm-logical-volume-management)
+[Giới thiệu về LVM](https://cloudcraft.info/gioi-thieu-ve-lvm-logical-volume-management)\
 [Hướng dẫn toàn tập về partition trên Linux](https://cloudcraft.info/huong-dan-toan-tap-ve-partition-tren-linux/)
 
 ## Network
